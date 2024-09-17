@@ -1,0 +1,3 @@
+SigninTest        : https://app.eu-central-1.saucelabs.com/tests/fc28627fc4914217ad4bd8cf2bf78833
+BuyProductTest    : https://app.eu-central-1.saucelabs.com/tests/efe0537212514fa28099e0c768c88f19
+CreateAccountTest : https://app.eu-central-1.saucelabs.com/tests/4cd4f53e514b490aa1ac84758b9affbf
